@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">English Language Tutorial</string>
+    <string name="about">About Us</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="developers">Developers</string>
+    <string name="pallavi_malik">Pallavi malik</string>
+    <string name="priyank_namdev">Priyank namdev</string>
+    <string name="shivam_namdev">Shivam namdev</string>
+
+    <string-array name="Elesson_names">
+        <item>Lesson 1</item>
+        <item>Lesson 2</item>
+        <item>Lesson 3</item>
+        <item>Lesson 4</item>
+        <item>Lesson 5</item>
+        <item>Lesson 6</item>
+        <item>Lesson 7</item>
+        <item>Lesson 8</item>
+        <item>Lesson 9</item>
+        <item>Lesson 10</item>
+    </string-array>
+
+    <string-array name="Hlesson_names">
+        <item>पाठ 1</item>
+        <item>पाठ 2</item>
+        <item>पाठ 3</item>
+        <item>पाठ 4</item>
+        <item>पाठ 5</item>
+        <item>पाठ 6</item>
+        <item>पाठ 7</item>
+        <item>पाठ 8</item>
+        <item>पाठ 9</item>
+        <item>पाठ 10</item>
+    </string-array>
+    <string-array name="ETest_names">
+        <item>Test 1</item>
+        <item>Test 2</item>
+        <item>Test 3</item>
+        <item>Test 4</item>
+        <item>Test 5</item>
+        <item>Test 6</item>
+        <item>Test 7</item>
+        <item>Test 8</item>
+        <item>Test 9</item>
+        <item>Test 10</item>
+    </string-array>
+
+    <string-array name="HTest_names">
+        <item>परीक्षा 1</item>
+        <item>परीक्षा 2</item>
+        <item>परीक्षा 3</item>
+        <item>परीक्षा 4</item>
+        <item>परीक्षा 5</item>
+        <item>परीक्षा 6</item>
+        <item>परीक्षा 7</item>
+        <item>परीक्षा 8</item>
+        <item>परीक्षा 9</item>
+        <item>परीक्षा 10</item>
+    </string-array>
+</resources>
